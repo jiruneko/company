@@ -21,9 +21,15 @@ const font = Rethink_Sans({
 // });
 
 export const metadata: Metadata = {
-  title: "Startup landing page",
-  description: "Startup landing page using next js 15",
+  title: "Webuild page",
+  description: "Startup landing page using Next.js 15",
+  icons: [
+    { rel: "icon", url: "/favicon.ico" },
+    { rel: "shortcut icon", url: "/favicon.ico" },
+    // { rel: "apple-touch-icon", url: "/favicon.png" }, // iOS 用（オプション）
+  ],
 };
+
 
 export default function RootLayout({
   children,
