@@ -37,7 +37,7 @@ const Feature = () => {
             </div>
             {/* description */}
             <p className="mt-3 mb-3 text-gray-700 leading-relaxed">
-            機械学習でのシステムだけでなく、昨今注目を浴びている生成AIの開発やソリューションも提示・解決いたします。開発のご相談から承ります。
+            機械学習でのシステムだけでなく、昨今注目を浴びている生成AIの開発やソリューションも提示・解決いたします。
             </p>
           </div>
           {/* 2nd box  */}
@@ -81,7 +81,7 @@ const Feature = () => {
             </div>
             {/* description */}
             <p className="mt-3 mb-3 text-gray-700 leading-relaxed">
-              お持ちのスマートフォンやタブレットで、いつでもどこでも端末からログインできます。もちろんAIやWebアプリとの連携も行います！
+              お持ちのスマートフォンやタブレットで、いつでもどこでも端末から繋がれる！　もちろんAIやWebアプリとの連携も行います！
             </p>
           </div>
           {/* 4th box  */}

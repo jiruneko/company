@@ -34,7 +34,7 @@ const About = () => {
                   />
                   <div>
                   <p className='font-medium'>'Jessica Doe'</p>
-                  <p className='text-gray-700 text-sm'>Web Developer @TechDev</p>
+                  <p className='text-gray-700 text-sm'>AI Developer @TechDev</p>
                   </div>
               </div>
             </div>
