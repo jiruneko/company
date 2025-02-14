@@ -16,14 +16,14 @@ const About = () => {
         Everything you need to grow Your Business
         </h1>
         <p className='mt-3 leading-relaxed text-sm:text-base text-gray-700'>
-        皆様のお店、会社などの成長に必要なビジネスのお手伝いに、全力で携わらせていただきます！まずはご相談から！ <br/>We will do our best to help you with the business you need to grow your store or company! Let's start with a consultation!
+        皆様のお店、会社などの成長に必要なビジネスのお手伝いに、全力で携わらせていただきます！　まずはご相談から！ <br/>We will do our best to help you with the business you need to grow your store or company! Let's start with a consultation!
         </p>
         {/* <button className='mt-5 text-[#f68967] font-bold pb-1 border-b-2 border-[#f68967] cursor-pointer'>
         Learn More &#8594;
         </button> */}
         <div className='mt-8 border-1-2 border-gray-200'>
             <div className='ml-6'>
-                <p className='text-gray-700 font-medium'>皆様が他で使用している他のツールで、データやアプリを確認することにも役に立ちます。<br/>The many integrations you can link to are very useful for seeing your data in other tools you use. &quot;
+                <p className='text-gray-700 font-medium'>DXにも対応しております！　モダンなAI技術であなたの業務から生活までしっかりコミット！<br/>We also support DX! We are committed to your work and life with modern AI technology!. &quot;
                 </p>
               <div className='flex items-center space-x-6 mt-6'>
                 <Image

@@ -32,12 +32,12 @@ const Feature = () => {
               </div>
               {/* Heading */}
               <h1 className="text-lg font-bold text-gray-700 mt-0 letter-spacing">
-              Web developpment
+              AI developpment
               </h1>
             </div>
             {/* description */}
             <p className="mt-3 mb-3 text-gray-700 leading-relaxed">
-            要望に合わせたWebアプリを開発。ECサイトからブログアプリ、独自のSNSまで様々な業務環境及びサービスを実現します。
+            機械学習でのシステムだけでなく、昨今注目を浴びている生成AIの開発やソリューションも提示・解決いたします。開発のご相談から承ります。
             </p>
           </div>
           {/* 2nd box  */}
@@ -81,7 +81,7 @@ const Feature = () => {
             </div>
             {/* description */}
             <p className="mt-3 mb-3 text-gray-700 leading-relaxed">
-              お持ちのスマートフォンやタブレットで、いつでもどこでも端末からログインできます。もちろんWebアプリとの連携も行います！
+              お持ちのスマートフォンやタブレットで、いつでもどこでも端末からログインできます。もちろんAIやWebアプリとの連携も行います！
             </p>
           </div>
           {/* 4th box  */}
@@ -103,7 +103,7 @@ const Feature = () => {
             </div>
             {/* description */}
             <p className="mt-3 mb-3 text-gray-700 leading-relaxed">
-              機械学習でのシステムだけでなく、昨今注目を浴びている生成AIの開発やソリューションも提示・解決いたします。開発のご相談から承ります。
+            要望に合わせたAIアプリを開発。チャットボットから音声AI、レコメンデーション等様々な業務環境及びサービスを実現します。
             </p>
           </div>
         </div>

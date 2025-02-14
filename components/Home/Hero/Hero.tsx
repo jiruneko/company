@@ -10,12 +10,12 @@ const Hero = () => {
             {/* Text Content */}
             <div>
                 <p className='text-sm sm:text-base md:text-xl font-bold text-blue-950'>
-                    We'll build you the smartest WebApp!
+                    We'll build you the smartest AI App!
                 </p>
-                <h1 className='text-2xl md:text-2xl lg:text-3xl mt-6 mb-6 font-bold text-blue-950 leading-[2.0rem] md:leading-[3.0rem]'>あなたのビジョンを、コードで実現。<br/><span className='text-green-400'>By:ウェビルド</span>
+                <h1 className='text-2xl md:text-2xl lg:text-3xl mt-6 mb-6 font-bold text-blue-950 leading-[2.0rem] md:leading-[3.0rem]'>あなたのビジョンを、AIで実現。<br/><span className='text-green-400'>By:ウェビルド〜AI開発〜</span>
                  </h1>
                  <p className='text-xs sm:text-sm md:text-base font-medium text-gray-700'>
-                  世界中どこに行っても通じるWeb制作・アプリ開発・メタバース・AIシステムなど、私たちが全力で皆様を支えます！<br/>We will do our best to support you with web production, app development, metaverse, AI systems, etc. that can be used anywhere in the world!
+                  世界中どこに行っても通じるAIアプリ・AIシステム・Webアプリ開発・メタバースなど、私たちが全力で皆様を支えます！<br/>We will do our best to support you with AI Systems, Web production, AI App, Metaverse, etc. that can be used anywhere in the world!
                  </p>
                  {/* Ratings */}
                  <div className='flex sm:flex-row flex-col sm:items-center sm:space-x-10 mt-6'>
