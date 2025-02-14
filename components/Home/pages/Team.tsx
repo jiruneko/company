@@ -84,7 +84,7 @@ const Team = () => {
             />
             <div className="absolute bottom-0 left-0 w-64 h-[5rem] p-4 bg-blue-500 rounded-lg text-center">
               <p className="text-lg text-white font-bold">TETSUYA</p>
-              <p className="text-gray-200">(Accounting)</p>
+              <p className="text-gray-200">(Accountant)</p>
             </div>
           </div>
         </div>
