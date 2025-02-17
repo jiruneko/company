@@ -21,7 +21,7 @@ const font = Rethink_Sans({
 // });
 
 export const metadata: Metadata = {
-  title: "Webuild page 〜AI開発〜",
+  title: "合同会社Webuild 〜AI開発〜",
   description: "Startup landing page using Next.js 15",
   icons: [
     { rel: "icon", url: "/favicon.ico" },
