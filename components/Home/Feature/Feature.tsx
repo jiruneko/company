@@ -32,7 +32,7 @@ const Feature = () => {
               </div>
               {/* Heading */}
               <h1 className="text-lg font-bold text-gray-700 mt-0 letter-spacing">
-              AI developpment
+              AI development
               </h1>
             </div>
             {/* description */}
